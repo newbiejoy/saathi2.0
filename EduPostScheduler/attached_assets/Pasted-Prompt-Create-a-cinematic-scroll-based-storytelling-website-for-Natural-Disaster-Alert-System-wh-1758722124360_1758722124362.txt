@@ -1,0 +1,91 @@
+Prompt:
+"Create a cinematic, scroll-based storytelling website for Natural Disaster Alert System, where the content comes from the disaster alert site but the design, transitions, animations, and overall flow replicate the style of this reference site: https://humandestroyer.tilda.ws/#ToxicWaters
+.
+
+Overall Concept:
+
+The website should feel like a visual documentary that unfolds as the user scrolls.
+
+Use full-screen background images and videos, parallax effects, smooth fade-ins, and text that animates into place just like the reference site.
+
+Dark, dramatic, and immersive theme with large typography.
+
+Structure (map the old content into new storytelling flow):
+
+Intro Scene (Hero Section)
+
+Fullscreen looping video/image of natural disasters (earthquake cracks, floods, hurricanes).
+
+Overlay headline: Natural Disaster Alert System
+
+Subheading: Stay Alert, Stay Safe
+
+Call-to-action: Learn More (scroll-down arrow with smooth transition).
+
+Disaster Types (Cinematic Segments)
+
+Each disaster (Earthquake, Flood, Tsunami, Wildfire, Hurricane, Tornado) becomes its own full-screen section.
+
+Background = high-quality image/video of the disaster.
+
+Foreground = large heading + descriptive text (animated like the Human Destroyer site: fade/slide on scroll).
+
+Add subtle ambient sound or motion where possible.
+
+Impact / Statistics Section
+
+Big bold counters that animate as user scrolls into view.
+
+Annual Deaths: 60,000+
+
+Economic Losses: $200 Billion+
+
+People Affected: 200 Million+
+
+Style = dramatic number reveal, large typography, minimalist layout.
+
+Deep-Dive Sections (Educational Storytelling)
+
+Alternating image + text storytelling blocks for each disaster type.
+
+Flow should mimic reference: text slides in, images pan/fade.
+
+Content pulled from the Natural Disaster Alert System site.
+
+Closing Call-to-Action
+
+Dark fullscreen section.
+
+Headline: Be Prepared. Stay Safe.
+
+Subheading: Access real-time alerts and information with the Natural Disaster Alert System.
+
+Button: Get Started.
+
+Footer
+
+Minimalistic dark footer with links: Home, About, Contact.
+
+Copyright: © 2025 Natural Disaster Alert System.
+
+Styling & Animation Guidelines:
+
+Typography: bold, cinematic fonts (similar to the reference).
+
+Animations: parallax scrolling, fade-ins, slide-ins, smooth video transitions.
+
+Images/videos: fullscreen, dramatic visuals.
+
+Background: mostly dark tones with contrasting white text.
+
+The site must feel immersive and cinematic, telling a story as the user scrolls.
+
+Tech Requirements:
+
+Build with HTML, CSS, and JavaScript (can use GSAP / Locomotive Scroll / ScrollTrigger for animations).
+
+Fully responsive for desktop and mobile.
+
+Smooth performance with lazy-loading images/videos.
+
+Replicate the flow, transitions, and storytelling vibe of the reference website, but with the disaster alert system content instead."
